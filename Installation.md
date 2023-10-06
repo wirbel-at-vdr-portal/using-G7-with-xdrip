@@ -44,6 +44,7 @@ xdrip+ needs some permissions to work.
 Set to always, see https://navid200.github.io/xDrip/docs/Location.html
 * auto start -> in case the app was closed
 * notifications (Android Settings −> Apps & notifications −> Notifications −> xDrip+)
+* time and date needs to be updated automatically (-> Settings −> System −> Date & Time -> Automatic date & time)
 
 xdrip+ should never go to sleep, otherwise it cannot alarm you.
 * disable any power saving for xDrip+.
