@@ -1,6 +1,7 @@
 # Native Algorithm - yes or no?
 
 In **Settings −> G5/G6/Dex1 Debug Settings −> Native Algorithm**, there is the choice of yes or no.
+As a side note: I'm using native algorithm, as I'm interested in backfill feature.
 
 ## Native Algorithm
 - Calibration is done by the transmitter (G7).
