@@ -41,5 +41,5 @@ Tap on **Forget device** on **classic status page**. Stay on system status page 
 ## Sensor is connected, but no readings.
 If the system status page shows connection and the number of days left, but there are no glucose readings, you may issue a *Start Sensor* command.
 
-## I need to share the xDrip+ glucose readings with other persons.
-Please read the page XdripSyncFollower.md.
+## I need to share the xDrip+ glucose (CGM) readings with other persons.
+Please read the page [XdripSyncFollower.md](XdripSyncFollower.md).
