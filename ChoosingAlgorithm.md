@@ -7,8 +7,7 @@ In **Settings −> G5/G6/Dex1 Debug Settings −> Native Algorithm**, there is t
 - Backfill data = yes. In case of temporary missing connection, up to 3 hours of data is filled back into xDrip+.
 - Session stops after 10days. If preemptive restart is enabled, may be up to 12 hours more.
 - Factory calibration = yes.
-- Relevant Calibration Graph = no.
-- Clear calibrations = no. 
+- no *Relevant Calibration Graph* and no *Clear calibrations*, as they're not needed. 
 
 ## Non-native Algorithm
 - Calibration is done by xDrip+.
