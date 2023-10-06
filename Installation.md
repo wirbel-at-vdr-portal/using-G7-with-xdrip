@@ -43,7 +43,7 @@ xdrip+ needs some permissions to work.
 * location/GPS -> needed to locate bluetooth devices (G7 is one) every 5 minutes
 Set to always, see https://navid200.github.io/xDrip/docs/Location.html
 * auto start -> in case the app was closed
-* notifications
+* notifications (Android Settings −> Apps & notifications −> Notifications −> xDrip+)
 
 xdrip+ should never go to sleep, otherwise it cannot alarm you.
 * disable any power saving for xDrip+.
