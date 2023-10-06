@@ -35,4 +35,8 @@ Here's an example, how this software typically looks like.
 
 As the informations are spread over several webpages and forums, i collect those infos, i need to know.
 About any of the informations here can be found on the net, this is just a (for me) useful collection.
-If you find any infos worth to add, pls use the issues section with a link.
+If you find any infos worth to add, pls use the issues section with a link. Please report wrong items.
+
+xDrip+ is way more powerful than the vendors app, but with such a overwhelming amount of settings and features,  
+it is also not easy to configure.
+
