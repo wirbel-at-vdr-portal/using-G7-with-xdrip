@@ -10,6 +10,8 @@ Choose system status.
 The page that just now opened is the *G5/G6/G7 Status page*. Now, tap on the middle of the screen and swipe right. This is the *Classic Status page* page.  
 There is also the *System Status page*, if you swipe left from *G5/G6/G7 Status page*.
 
+See this [screenshot](doc/systemstatus.png).
+
 ## No connection?
 Check if the following
 
