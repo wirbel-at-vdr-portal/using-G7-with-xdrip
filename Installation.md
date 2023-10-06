@@ -34,4 +34,16 @@ You will see a few warnings, if you really want to accept these settings. Pls ac
 As you're now on this webpage, make shure to read it's informations and make shure to bookmark it.
 At some point, you may want to re-check later.
 
+Make shure to check your glucose units, mmol/l or mg/dl.
 
+# 3. Setup permissions
+
+xdrip+ needs some permissions to work.
+* permission to enable/disable Bluetooth -> xdrip+ needs to communicate every 5 minutes.
+* location/GPS -> needed to locate bluetooth devices (G7 is one) every 5 minutes
+* auto start -> in case the app was closed
+* notifications
+
+xdrip+ should never go to sleep, otherwise it cannot alarm you.
+* disable any power saving for this app.
+* disable any power saving on bluetooth
