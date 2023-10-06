@@ -41,9 +41,10 @@ Make shure to check your glucose units, mmol/l or mg/dl.
 xdrip+ needs some permissions to work.
 * permission to enable/disable Bluetooth -> xdrip+ needs to communicate every 5 minutes.
 * location/GPS -> needed to locate bluetooth devices (G7 is one) every 5 minutes
+Set to always, see https://navid200.github.io/xDrip/docs/Location.html
 * auto start -> in case the app was closed
 * notifications
 
 xdrip+ should never go to sleep, otherwise it cannot alarm you.
-* disable any power saving for this app.
-* disable any power saving on bluetooth
+* disable any power saving for xDrip+.
+* disable any power saving on bluetooth, see https://navid200.github.io/xDrip/docs/BluetoothBatteryOpt.html
