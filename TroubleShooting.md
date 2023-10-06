@@ -36,4 +36,5 @@ Tap on **Forget device** on **classic status page**. Stay on system status page 
 1. Find your current Dexcom sensor transmitter ID in the data source menu. Be shure to remember it, write it either down or do a screenshot.
 2. Now, change it to an invalid number.
 3. wait a few seconds and change it to the correct transmitter ID again.
+4. Observe status in the system status page
 
