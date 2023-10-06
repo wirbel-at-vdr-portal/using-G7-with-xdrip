@@ -23,3 +23,11 @@ But if you are using one and not happy with vendors software package, this may b
 *Customization allows for different options to configure alarms, vocalize readings, change the display preferences etc. International users can update translations from within the app too.*
 
 *Your data is yours and can be exported in many different ways. xDrip also intercommunicates with other apps, for example sending and receiving live data with AndroidAPS.*
+
+
+# How does xDrip+ look like
+
+Here's an example, how this software typically looks like.
+
+![alt text](doc/example.jpg)
+
