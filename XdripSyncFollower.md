@@ -1,3 +1,4 @@
+[back to index](Index.md)
 # Sharing xDrip+ glucose readings (CGM) with other smart phones.
 
 xDrip+ allows to send it's CGM values to other xDrip+ installations using Google Play services.
@@ -26,5 +27,7 @@ The phone connected to the Dexcom sensor is the **xDrip+ sync master**, the phon
 4. Reboot the follower phone
 
 ## Youtube howtos
-- https://www.youtube.com/watch?v=SYu2JUcNBXg
-- https://www.youtube.com/watch?v=LcgjfbYcWkE
+- [howto German on youtube](https://www.youtube.com/watch?v=SYu2JUcNBXg)
+- [howto English on youtube](https://www.youtube.com/watch?v=LcgjfbYcWkE)
+
+[back to index](Index.md)
