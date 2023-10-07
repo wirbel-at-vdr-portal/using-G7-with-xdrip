@@ -1,7 +1,7 @@
 [back to index](Index.md)
 # Useful Links related to the topic
 
-This is useful stuff around the topic. I try to sort them in descending order.
+This is useful stuff around the topic. I try to sort them in descending order by usefulness.
 
 - [NightscoutFoundation xDrip+ releases](https://github.com/NightscoutFoundation/xDrip/releases)
 - [https://navid200.github.io/xDrip - a very impressive documentation](https://navid200.github.io/xDrip/)
