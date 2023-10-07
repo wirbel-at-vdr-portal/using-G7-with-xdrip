@@ -15,4 +15,4 @@ Long press on an alarms lets you configure it.
 
 *At least* the low alarm should be configured and active, but likely you want the high alarm too.
 
-[back to index](Index.md]
+[back to index](Index.md)
