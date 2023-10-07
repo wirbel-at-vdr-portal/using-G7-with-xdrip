@@ -1,3 +1,4 @@
+[back to index](Index.md)
 # Trouble shooting the G7 - an yet incomplete list
 
 ## There is written G6 sensor, I'm using a G7? Is there something misconfigured?
@@ -49,3 +50,5 @@ If the *Classic Status page* shows connection and the number of days left, but t
 
 ## I need to share the xDrip+ glucose (CGM) readings with other persons.
 Please read the page [XdripSyncFollower.md](XdripSyncFollower.md).
+
+[back to index](Index.md)
