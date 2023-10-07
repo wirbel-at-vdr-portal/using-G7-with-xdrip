@@ -1,3 +1,4 @@
+[back to index](Index.md)
 # How to exchange the G7 sensor
 
 This is how i exchange the G7 sensors.
@@ -18,3 +19,5 @@ Keep the window open and the phone as near as possible to the sensor until you s
 
 
 The G7 is started *by installing it*. Usually, there's no need to send a 'Start Sensor' command.
+
+[back to index](Index.md)
