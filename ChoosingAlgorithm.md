@@ -1,3 +1,4 @@
+[back to index](Index.md)
 # Native Algorithm - yes or no?
 
 In **Settings −> G5/G6/Dex1 Debug Settings −> Native Algorithm**, there is the choice of yes or no.
@@ -17,3 +18,5 @@ As a side note: I'm using native algorithm, as I'm interested in backfill featur
 - Factory calibration = no.
 - Relevant Calibration Graph = yes.
 - Clear calibrations = yes.
+
+[back to index](Index.md)
