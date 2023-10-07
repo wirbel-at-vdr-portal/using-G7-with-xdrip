@@ -1,3 +1,4 @@
+[back to index](Index.md)
 # Installation of xdrip+ on Android
 
 Installing xdrip+ is unfortunally more complicated than usual packages. xdrip+ is for several reasons not in Playstore.
@@ -49,3 +50,5 @@ Set to always, see https://navid200.github.io/xDrip/docs/Location.html
 xdrip+ should never go to sleep, otherwise it cannot alarm you.
 * disable any power saving for xDrip+.
 * disable any power saving on bluetooth, see https://navid200.github.io/xDrip/docs/BluetoothBatteryOpt.html
+
+[back to index](Index.md)
