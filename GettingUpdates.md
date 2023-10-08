@@ -19,5 +19,9 @@ If the last version works better for you, you may want to undo an update.
 
 For this, just install the version you had previously.
 
+## Further Informations
+
+Please visit the most detailled source: [**navid200.github.io**](https://navid200.github.io/xDrip/docs/Updates.html).
+
 
 [back to index](Index.md)
