@@ -8,4 +8,5 @@
 - [Configuring Alarms](ConfiguringAlarms.md)
 - [Sharing CGM data using xDrip+](XdripSyncFollower.md)
 - [xDrip+ updates](GettingUpdates.md)
+- [Building xDrip+ from source code](BuildingXdrip.md)
 - [Useful Links](UsefulLinks.md)
