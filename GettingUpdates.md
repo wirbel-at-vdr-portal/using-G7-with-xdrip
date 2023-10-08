@@ -1,7 +1,7 @@
 [back to index](Index.md)
 # Getting the very latest version
 
-***IMPORTANT:*** **Do NOT uninstall xdrip+ for an update, just install the new version over the old one.**
+***IMPORTANT:*** **Do NOT uninstall xdrip+ for an update, just install the new version over the old one.** Otherwise you will loose all your settings.
 
 If you want to get the very latest version, you have several choices.
 Go to **Settings −> xDrip+ Update Settings**.
