@@ -71,7 +71,7 @@ You may also try to run it in Android Studio before installing it.
 
 ![Running xDrip+ in Android Studio](doc/Xdrip-Dry-Run.png)
 
-
+If you encounter a message `Unsupported class file major version XX`, with XX > 55, you have still installed the wrong JDK version.
 
 ## 8. Creating xDrip+ APK in Android Studio
 
