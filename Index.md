@@ -7,4 +7,5 @@
 - [Trouble shooting](TroubleShooting.md)
 - [Configuring Alarms](ConfiguringAlarms.md)
 - [Sharing CGM data using xDrip+](XdripSyncFollower.md)
+- [xDrip+ updates](GettingUpdates.md)
 - [Useful Links](UsefulLinks.md)
