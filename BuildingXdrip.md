@@ -52,7 +52,7 @@ On Android Studio
 ## 6. Get the sources into Android Studio
 
 - create an empty project
-- In the startup menu, click `Get from VCS`.
+- In the startup menu, click `Get from VCS` and `GitHub`.
 - You should now see a list of your GitHub projects, including the newly forked `xDrip`. Select it and click `Clone`.
 
 
