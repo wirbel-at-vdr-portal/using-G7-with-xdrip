@@ -26,7 +26,7 @@ Get [Android Studio](https://developer.android.com/studio) and install it.
 
 **Important: be shure to copy the token in this process, you will be never able to see it again.**
 
-**Deleting & recreating will the only solution, once you loose the copied string.**
+**Deleting & recreating will the only solution, once you lost the copied string.**
 
 Log in to your github and
   - Click on your avatar in the top right hand corner
