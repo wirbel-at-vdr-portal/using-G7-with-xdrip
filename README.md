@@ -40,4 +40,4 @@ If you find any infos worth to add, pls use the issues section with a link. Plea
 xDrip+ is way more powerful than the vendors app, but with such a overwhelming amount of settings and features,  
 it is also not easy to configure.
 
-[back to index](Index.md)
+[proceed to Table of Content](Index.md)
