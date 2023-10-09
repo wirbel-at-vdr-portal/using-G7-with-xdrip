@@ -26,7 +26,8 @@ The phone connected to the Dexcom sensor is the **xDrip+ sync master**, the phon
 3. Enter the **xDrip+ sync master** key into the **Handset Group Security Sync Key** field. Double check it for errors.
 4. Reboot the follower phone
 
-## Youtube howtos
+## External Links
+- [xDrip doc](https://xdrip.readthedocs.io/en/latest/use/syncsetup/)
 - [howto German on youtube](https://www.youtube.com/watch?v=SYu2JUcNBXg)
 - [howto English on youtube](https://www.youtube.com/watch?v=LcgjfbYcWkE)
 
